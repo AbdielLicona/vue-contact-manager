@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Abdiel Licona",
+      "photo": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+      "email": "alicoescobar@gmail.com",
+      "mobile": "996923432",
+      "company": "021DigitalMarketing",
+      "title": "Developer",
+      "groupId": "5",
+      "id": 1
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
